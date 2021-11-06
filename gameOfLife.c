@@ -1,11 +1,3 @@
-/*     
-        Conway's Game of Life
-        Submitted by
-
-        200041122 Radib Bin Kabir
-        200041125 Mehedi Ahamed
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #define rowCounts 20
